@@ -1,5 +1,5 @@
 # Food Analyzer :hamburger:
-Food-analyzer is a console server-client app, whose server use http communication protocol to get data from https://fdc.nal.usda.gov
+Food-analyzer is a console server-client application for informing a person about the composition and energy value of food products in his menu. Its server use http communication protocol to get the data about the food from https://fdc.nal.usda.gov.
 
 Note: The app doesn't work nowadays, because of the changes in https://fdc.nal.usda.gov API. Simply i have no interest in maintaining it.
 
